@@ -1,0 +1,6 @@
+127.0.0.1 - - [22/Apr/2017:17:40:08 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [22/Apr/2017:17:40:55 +0200] "GET /kitchen-assistant/agents/start HTTP/1.1" 500 6819
+127.0.0.1 - - [22/Apr/2017:17:52:11 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [22/Apr/2017:17:56:31 +0200] "GET /kitchen-assistant/agents/start HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [22/Apr/2017:18:01:34 +0200] "GET /kitchen-assistant/recipeForm HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [22/Apr/2017:18:09:04 +0200] "GET /kitchen-assistant/correctQuantities HTTP/1.1" 200 362

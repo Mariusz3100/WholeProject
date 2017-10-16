@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=kitchen-assistant/C:\/Program Files\/Java\/jre1.8.0_77\/lib\/rt.jar&lt;javax.security.cert(X509Certificate.class[X509Certificate" modifiers="1057" timestamp="1461087318571"/>
+<typeInfo handle="=test/C:\/Program Files\/Java\/jre1.8.0_77\/lib\/rt.jar&lt;javax.net.ssl(SSLSocketFactory.class[SSLSocketFactory" modifiers="1057" timestamp="1461087318571"/>
+<typeInfo handle="=kitchen-assistant/C:\/Users\/Mariusz\/.m2\/repository\/commons-logging\/commons-logging\/1.2\/commons-logging-1.2.jar&lt;org.apache.commons.logging(LogFactory.class[LogFactory" modifiers="1057" timestamp="1482190875081"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.utils{ProblemLogger.java[ProblemLogger" modifiers="1" timestamp="1460539762972"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;webscrappers{AbstractScrapper.java[AbstractScrapper" modifiers="1025" timestamp="1492982059526"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;webscrappers.auchan{AuchanParticular.java[AuchanParticular" modifiers="1" timestamp="1493043132878"/>
+</typeInfoHistroy>

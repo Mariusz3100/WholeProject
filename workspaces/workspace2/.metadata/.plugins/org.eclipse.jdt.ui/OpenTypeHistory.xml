@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=kitchen-assistant/C:\/Program Files\/Java\/jre1.8.0_77\/lib\/rt.jar&lt;javax.security.cert(X509Certificate.class[X509Certificate" modifiers="1057" timestamp="1461087318571"/>
+<typeInfo handle="=test/C:\/Program Files\/Java\/jre1.8.0_77\/lib\/rt.jar&lt;javax.net.ssl(SSLSocketFactory.class[SSLSocketFactory" modifiers="1057" timestamp="1461087318571"/>
+<typeInfo handle="=kitchen-assistant/C:\/Users\/Mariusz\/.m2\/repository\/commons-logging\/commons-logging\/1.2\/commons-logging-1.2.jar&lt;org.apache.commons.logging(LogFactory.class[LogFactory" modifiers="1057" timestamp="1482190875081"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;webscrappers{AbstractScrapper.java[AbstractScrapper" modifiers="1025" timestamp="1492982059526"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;webscrappers.auchan{AuchanParticular.java[AuchanParticular" modifiers="1" timestamp="1493043132878"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.Apiclients.edaman{RecipeData.java[RecipeData" modifiers="1" timestamp="1496246620577"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.model{Produkt.java[Produkt" modifiers="1" timestamp="1496650281747"/>
+<typeInfo handle="=kitchen-assistant/lib\/myMadkit17.jar&lt;madkit.kernel(AgentsJob.class[AgentsJob" modifiers="1056" timestamp="1458786220140"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;webscrappers.przepisy{AbstractQuantityExtracter.java[AbstractQuantityExtracter[QuantityTranslation" modifiers="9" timestamp="1466949531812"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.utils{ProblemLogger.java[ProblemLogger" modifiers="1" timestamp="1460539762972"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;webscrappers.przepisy{SkladnikiExtractor.java[SkladnikiExtractor[Quantity" modifiers="8" timestamp="1466972194346"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.agents{ShopsListAgent.java[ShopsListAgent" modifiers="1" timestamp="1496571237207"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.shopcom{ShopComApiClientParticularProduct.java[ShopComApiClientParticularProduct" modifiers="1" timestamp="1496662827297"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.Apiclients.edaman{EdamanApiClient.java[EdamanApiClient" modifiers="1" timestamp="1496670927645"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.agents{FoodIngredientAgent.java[FoodIngredientAgent" modifiers="1" timestamp="1495377893777"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.agents{BaseAgent.java[BaseAgent" modifiers="1025" timestamp="1495377787631"/>
+<typeInfo handle="=kitchen-assistant/C:\/Users\/Mariusz\/.m2\/repository\/com\/sun\/jersey\/jersey-client\/1.9.1\/jersey-client-1.9.1.jar&lt;com.sun.jersey.api.client(UniformInterfaceException.class[UniformInterfaceException" modifiers="33" timestamp="1493155047672"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.Apiclients.edaman{DietLabels.java[DietLabels" modifiers="16385" timestamp="1496659603670"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.api.agents{ShopComAgent.java[ShopComAgent" modifiers="1" timestamp="1496655167727"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.api.agents{GoogleAccessAgent.java[GoogleAccessAgent" modifiers="1" timestamp="1496670374056"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.controllers{AgentsController.java[AgentsController" modifiers="1" timestamp="1464782979075"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.agents.config{AgentsSystem.java[AgentsSystem" modifiers="1" timestamp="1496852715453"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.api.agents{GoogleAgent.java[GoogleAgent" modifiers="1" timestamp="1496665972047"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.Apiclients.edaman{HealthLabels.java[HealthLabels" modifiers="16385" timestamp="1496658981293"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.shopcom{ShopComApiClient.java[ShopComApiClient" modifiers="1" timestamp="1496654913166"/>
+<typeInfo handle="=kitchen-assistant/src\/main\/java&lt;mariusz.ambroziak.kassistant.controllers{RecipeController.java[RecipeController" modifiers="1" timestamp="1496671724918"/>
+</typeInfoHistroy>

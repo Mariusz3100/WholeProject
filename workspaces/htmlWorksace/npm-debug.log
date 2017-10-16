@@ -1,0 +1,207 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\GMV_angular\\nodejs\\node.exe',
+1 verbose cli   'D:\\GMV_angular\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose readDependencies loading dependencies from D:\mgr_dev04\workspaces\htmlWorksace\package.json
+5 warn package.json angular-quickstart@1.0.0 No description
+6 warn package.json angular-quickstart@1.0.0 No repository field.
+7 warn package.json angular-quickstart@1.0.0 No README data
+8 verbose install where, deps [ 'D:\\mgr_dev04\\workspaces\\htmlWorksace',
+8 verbose install   [ 'angular-in-memory-web-api',
+8 verbose install     'bootstrap',
+8 verbose install     'core-js',
+8 verbose install     'concurrently',
+8 verbose install     'lite-server' ] ]
+9 verbose install where, peers [ 'D:\\mgr_dev04\\workspaces\\htmlWorksace', [] ]
+10 verbose installManyTop reading for lifecycle D:\mgr_dev04\workspaces\htmlWorksace\package.json
+11 info preinstall angular-quickstart@1.0.0
+12 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\angular-in-memory-web-api\package.json
+13 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\bootstrap\package.json
+14 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\concurrently\package.json
+15 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\core-js\package.json
+16 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\lite-server\package.json
+17 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\reflect-metadata\package.json
+18 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\rxjs\package.json
+19 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\systemjs\package.json
+20 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typescript\package.json
+21 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typings\package.json
+22 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\zone.js\package.json
+23 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\common\package.json
+24 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\compiler\package.json
+25 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\core\package.json
+26 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\forms\package.json
+27 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\http\package.json
+28 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\platform-browser\package.json
+29 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\platform-browser-dynamic\package.json
+30 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\router\package.json
+31 verbose installManyTop reading scoped package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\upgrade\package.json
+32 verbose readDependencies loading dependencies from D:\mgr_dev04\workspaces\htmlWorksace\package.json
+33 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\angular-in-memory-web-api\package.json
+34 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\bootstrap\package.json
+35 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\concurrently\package.json
+36 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\core-js\package.json
+37 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\lite-server\package.json
+38 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\reflect-metadata\package.json
+39 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\rxjs\package.json
+40 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\systemjs\package.json
+41 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typescript\package.json
+42 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typings\package.json
+43 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\zone.js\package.json
+44 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\concurrent\package.json
+45 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\concurrent.cmd\package.json
+46 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\concurrently\package.json
+47 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\concurrently.cmd\package.json
+48 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\lite-server\package.json
+49 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\lite-server.cmd\package.json
+50 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\tsc\package.json
+51 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\tsc.cmd\package.json
+52 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\tsserver\package.json
+53 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\tsserver.cmd\package.json
+54 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\typings\package.json
+55 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\.bin\typings.cmd\package.json
+56 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\common\package.json
+57 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\compiler\package.json
+58 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\core\package.json
+59 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\forms\package.json
+60 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\http\package.json
+61 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\platform-browser\package.json
+62 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\platform-browser-dynamic\package.json
+63 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\router\package.json
+64 verbose targetResolver reading package data from D:\mgr_dev04\workspaces\htmlWorksace\node_modules\@angular\upgrade\package.json
+65 verbose already installed skipping core-js@^2.4.1 D:\mgr_dev04\workspaces\htmlWorksace
+66 verbose already installed skipping concurrently@^3.0.0 D:\mgr_dev04\workspaces\htmlWorksace
+67 verbose already installed skipping lite-server@^2.2.2 D:\mgr_dev04\workspaces\htmlWorksace
+68 verbose already installed skipping angular-in-memory-web-api@~0.1.1 D:\mgr_dev04\workspaces\htmlWorksace
+69 verbose already installed skipping bootstrap@^3.3.7 D:\mgr_dev04\workspaces\htmlWorksace
+70 silly install resolved []
+71 info build D:\mgr_dev04\workspaces\htmlWorksace
+72 info linkStuff angular-quickstart@1.0.0
+73 silly linkStuff angular-quickstart@1.0.0 has D:\mgr_dev04\workspaces as its parent node_modules
+74 verbose linkBins angular-quickstart@1.0.0
+75 verbose linkMans angular-quickstart@1.0.0
+76 verbose rebuildBundles angular-quickstart@1.0.0
+77 verbose rebuildBundles [ '.bin',
+77 verbose rebuildBundles   '@angular',
+77 verbose rebuildBundles   'angular-in-memory-web-api',
+77 verbose rebuildBundles   'bootstrap',
+77 verbose rebuildBundles   'concurrently',
+77 verbose rebuildBundles   'core-js',
+77 verbose rebuildBundles   'lite-server',
+77 verbose rebuildBundles   'reflect-metadata',
+77 verbose rebuildBundles   'rxjs',
+77 verbose rebuildBundles   'systemjs',
+77 verbose rebuildBundles   'typescript',
+77 verbose rebuildBundles   'typings',
+77 verbose rebuildBundles   'zone.js' ]
+78 verbose rebuild bundle D:\mgr_dev04\workspaces\htmlWorksace\node_modules\reflect-metadata
+79 info build D:\mgr_dev04\workspaces\htmlWorksace\node_modules\reflect-metadata
+80 info preinstall reflect-metadata@0.1.10
+81 info linkStuff reflect-metadata@0.1.10
+82 silly linkStuff reflect-metadata@0.1.10 has D:\mgr_dev04\workspaces\htmlWorksace\node_modules as its parent node_modules
+83 verbose linkBins reflect-metadata@0.1.10
+84 verbose linkMans reflect-metadata@0.1.10
+85 verbose rebuildBundles reflect-metadata@0.1.10
+86 info install reflect-metadata@0.1.10
+87 info postinstall reflect-metadata@0.1.10
+88 verbose rebuild bundle D:\mgr_dev04\workspaces\htmlWorksace\node_modules\rxjs
+89 info build D:\mgr_dev04\workspaces\htmlWorksace\node_modules\rxjs
+90 info preinstall rxjs@5.0.0-beta.12
+91 info linkStuff rxjs@5.0.0-beta.12
+92 silly linkStuff rxjs@5.0.0-beta.12 has D:\mgr_dev04\workspaces\htmlWorksace\node_modules as its parent node_modules
+93 verbose linkBins rxjs@5.0.0-beta.12
+94 verbose linkMans rxjs@5.0.0-beta.12
+95 verbose rebuildBundles rxjs@5.0.0-beta.12
+96 verbose rebuildBundles [ 'symbol-observable' ]
+97 info install rxjs@5.0.0-beta.12
+98 info postinstall rxjs@5.0.0-beta.12
+99 verbose rebuild bundle D:\mgr_dev04\workspaces\htmlWorksace\node_modules\systemjs
+100 info build D:\mgr_dev04\workspaces\htmlWorksace\node_modules\systemjs
+101 info preinstall systemjs@0.19.39
+102 info linkStuff systemjs@0.19.39
+103 silly linkStuff systemjs@0.19.39 has D:\mgr_dev04\workspaces\htmlWorksace\node_modules as its parent node_modules
+104 verbose linkBins systemjs@0.19.39
+105 verbose linkMans systemjs@0.19.39
+106 verbose rebuildBundles systemjs@0.19.39
+107 verbose rebuildBundles [ 'when' ]
+108 info install systemjs@0.19.39
+109 info postinstall systemjs@0.19.39
+110 verbose rebuild bundle D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typescript
+111 info build D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typescript
+112 info preinstall typescript@2.3.2
+113 info linkStuff typescript@2.3.2
+114 silly linkStuff typescript@2.3.2 has D:\mgr_dev04\workspaces\htmlWorksace\node_modules as its parent node_modules
+115 verbose linkBins typescript@2.3.2
+116 verbose link bins [ { tsc: './bin/tsc', tsserver: './bin/tsserver' },
+116 verbose link bins   'D:\\mgr_dev04\\workspaces\\htmlWorksace\\node_modules\\.bin',
+116 verbose link bins   false ]
+117 verbose linkMans typescript@2.3.2
+118 verbose rebuildBundles typescript@2.3.2
+119 info install typescript@2.3.2
+120 info postinstall typescript@2.3.2
+121 verbose rebuild bundle D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typings
+122 info build D:\mgr_dev04\workspaces\htmlWorksace\node_modules\typings
+123 info preinstall typings@1.5.0
+124 info linkStuff typings@1.5.0
+125 silly linkStuff typings@1.5.0 has D:\mgr_dev04\workspaces\htmlWorksace\node_modules as its parent node_modules
+126 verbose linkBins typings@1.5.0
+127 verbose link bins [ { typings: 'dist/bin.js' },
+127 verbose link bins   'D:\\mgr_dev04\\workspaces\\htmlWorksace\\node_modules\\.bin',
+127 verbose link bins   false ]
+128 verbose linkMans typings@1.5.0
+129 verbose rebuildBundles typings@1.5.0
+130 verbose rebuildBundles [ 'any-promise',
+130 verbose rebuildBundles   'archy',
+130 verbose rebuildBundles   'bluebird',
+130 verbose rebuildBundles   'chalk',
+130 verbose rebuildBundles   'cli-truncate',
+130 verbose rebuildBundles   'columnify',
+130 verbose rebuildBundles   'elegant-spinner',
+130 verbose rebuildBundles   'has-unicode',
+130 verbose rebuildBundles   'listify',
+130 verbose rebuildBundles   'log-update',
+130 verbose rebuildBundles   'minimist',
+130 verbose rebuildBundles   'promise-finally',
+130 verbose rebuildBundles   'typings-core',
+130 verbose rebuildBundles   'update-notifier',
+130 verbose rebuildBundles   'wordwrap',
+130 verbose rebuildBundles   'xtend' ]
+131 info install typings@1.5.0
+132 info postinstall typings@1.5.0
+133 verbose rebuild bundle D:\mgr_dev04\workspaces\htmlWorksace\node_modules\zone.js
+134 info build D:\mgr_dev04\workspaces\htmlWorksace\node_modules\zone.js
+135 info preinstall zone.js@0.6.26
+136 info linkStuff zone.js@0.6.26
+137 silly linkStuff zone.js@0.6.26 has D:\mgr_dev04\workspaces\htmlWorksace\node_modules as its parent node_modules
+138 verbose linkBins zone.js@0.6.26
+139 verbose linkMans zone.js@0.6.26
+140 verbose rebuildBundles zone.js@0.6.26
+141 info install zone.js@0.6.26
+142 info postinstall zone.js@0.6.26
+143 info install angular-quickstart@1.0.0
+144 info postinstall angular-quickstart@1.0.0
+145 verbose unsafe-perm in lifecycle true
+146 info prepublish angular-quickstart@1.0.0
+147 verbose validateInstall loading D:\mgr_dev04\workspaces\htmlWorksace\package.json for validation
+148 verbose stack Error: The package zone.js@0.6.26 does not satisfy its siblings' peerDependencies requirements!
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\lib\install.js:125:32
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\lib\install.js:268:7
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+148 verbose stack     at cb (D:\GMV_angular\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+148 verbose stack     at cb (D:\GMV_angular\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+148 verbose stack     at cb (D:\GMV_angular\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+148 verbose stack     at D:\GMV_angular\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+149 verbose cwd D:\mgr_dev04\workspaces\htmlWorksace
+150 error Windows_NT 10.0.14393
+151 error argv "D:\\GMV_angular\\nodejs\\node.exe" "D:\\GMV_angular\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+152 error node v4.4.7
+153 error npm  v2.15.8
+154 error code EPEERINVALID
+155 error peerinvalid The package zone.js@0.6.26 does not satisfy its siblings' peerDependencies requirements!
+155 error peerinvalid Peer angular-in-memory-web-api@0.1.17 wants zone.js@^0.7.2
+155 error peerinvalid Peer @angular/core@2.0.2 wants zone.js@^0.6.21
+156 verbose exit [ 1, true ]

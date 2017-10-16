@@ -1,0 +1,10 @@
+1493152038616	Copy compilation unit
+1493219797465	Copy compilation unit
+1493221322104	Copy file
+1493221723145	Extract local variable 'modelAndView'
+1493552305288	Extract local variable 'recipeHits'
+1493556534867	Copy file
+1493562687345	Rename package 'mariusz.ambroziak.kassistant.Apiclients.dataholders'
+1493562702828	Move compilation unit
+1493563662004	Rename method 'getResponse'
+1493563694612	Extract method 'getResponse'

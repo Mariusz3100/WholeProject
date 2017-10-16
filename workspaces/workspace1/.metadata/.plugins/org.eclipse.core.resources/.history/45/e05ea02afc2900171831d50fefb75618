@@ -1,0 +1,10 @@
+package mariusz.ambroziak.kassistant.Apiclients;
+
+public class EdamanApiClient {
+
+	public EdamanApiClient(){
+		Client c = Client.create();
+        WebResource resource = c.resource("http://localhost:7101/RESTfulService-Project1-context-root/jersey/helloWorld");
+        String response = resource.get(String.class);
+	}
+}

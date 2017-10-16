@@ -1,0 +1,12 @@
+127.0.0.1 - - [03/May/2017:01:32:25 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/May/2017:01:32:27 +0200] "GET /kitchen-assistant/ HTTP/1.1" 200 29
+127.0.0.1 - - [03/May/2017:11:19:51 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:19:55 +0200] "GET /kitchen-assistant/ HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:20:27 +0200] "GET /kitchen-assistant/agents/start HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:25:58 +0200] "GET /kitchen-assistant/apirecipes?recipeUrl=http%3A%2F%2Fwww.edamam.com%2Fontologies%2Fedamam.owl%2523recipe_637913ec61d9da69eb451818c3293df2 HTTP/1.1" 500 4417
+127.0.0.1 - - [03/May/2017:11:31:56 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:31:58 +0200] "GET /kitchen-assistant/ HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:32:36 +0200] "GET /kitchen-assistant/agents/start HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:32:57 +0200] "GET /kitchen-assistant/apirecipes?recipeUrl=http%3A%2F%2Fwww.edamam.com%2Fontologies%2Fedamam.owl%2523recipe_637913ec61d9da69eb451818c3293df2 HTTP/1.1" 200 830
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:37:55 +0200] "GET /kitchen-assistant/ HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [03/May/2017:11:38:13 +0200] "GET /kitchen-assistant/agents/start HTTP/1.1" 200 29

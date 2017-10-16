@@ -1,0 +1,17 @@
+package mariusz.ambroziak.kassistant.Apiclients;
+
+
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
+
+public class EdamanApiClient {
+
+	public EdamanApiClient(){
+		ClientConfig cc = new DefaultClientConfig();
+        cc.getProperties().put(ClientConfig.PROPERTY_FOLLOW_REDIRECTS, true);
+		
+		Client c = Client.create();
+        WebResource resource = c.resource("http://localhost:7101/RESTfulService-Project1-context-root/jersey/helloWorld");
+        String response = resource.get(String.class);
+	}
+}

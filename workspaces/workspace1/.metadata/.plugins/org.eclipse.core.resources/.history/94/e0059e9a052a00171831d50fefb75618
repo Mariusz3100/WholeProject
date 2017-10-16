@@ -1,0 +1,21 @@
+package mariusz.ambroziak.kassistant.Apiclients;
+
+
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
+import com.sun.jersey.api.client.config.ClientConfig;
+import com.sun.jersey.api.client.config.DefaultClientConfig;
+
+public class EdamanApiClient {
+
+	public EdamanApiClient(){
+		ClientConfig cc = new DefaultClientConfig();
+        cc.getProperties().put(ClientConfig.PROPERTY_FOLLOW_REDIRECTS, true);
+		
+		Client c = Client.create();
+        WebResource resource = c.resource("https://api.edamam.com/search?q=chicken&app_id=af08be14");
+        String response = resource.get(String.class);
+        
+        
+	}
+}

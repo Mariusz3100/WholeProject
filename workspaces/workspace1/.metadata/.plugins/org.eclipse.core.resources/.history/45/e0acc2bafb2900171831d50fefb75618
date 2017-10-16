@@ -1,0 +1,8 @@
+package mariusz.ambroziak.kassistant.Apiclients;
+
+public class EdamanApiClient {
+
+	public EdamanApiClient(){
+		
+	}
+}

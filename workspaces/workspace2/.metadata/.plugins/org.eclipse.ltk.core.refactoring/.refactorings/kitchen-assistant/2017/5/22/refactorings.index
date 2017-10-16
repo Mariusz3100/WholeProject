@@ -1,0 +1,12 @@
+1496227782379	Copy compilation unit
+1496228292978	Rename local variable 'url'
+1496228648442	Rename method 'getResponse'
+1496229858171	Rename method 'getRecipeByPhrase'
+1496229870280	Rename method 'getRecipes'
+1496229996542	Extract method 'parseResponseIntoRecipes'
+1496236162876	Rename local variable 'hl'
+1496239100575	Extract local variable 'retrievedHL'
+1496239350132	Rename local variable 'retrievedHL'
+1496240822397	Extract local variable 'recipesByParameters'
+1496241859745	Extract local variable 'iterator'
+1496242030376	Extract local variable 'next'

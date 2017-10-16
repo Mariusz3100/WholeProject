@@ -1,0 +1,13 @@
+1493649454903	Copy compilation unit
+1493649542841	Rename type 'EdamanApiClient'
+1493659914489	Rename type 'ProducData'
+1493670816269	Rename package 'mariusz.ambroziak.kassistant.agents.api'
+1493670847700	Move compilation unit
+1493678998467	Extract local variable 'recipes'
+1493737020577	Delete element
+1493823414525	Extract method 'getPrice'
+1493824847117	Extract method 'extractFloatPrice'
+1493825440459	Rename local variable 'floatMinPrice'
+1493825449085	Rename local variable 'minPrice'
+1493835943914	Copy compilation unit
+1493836809474	Rename field 'AUCHAN_WEB_SCRAPPER_NAME'

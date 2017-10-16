@@ -1,0 +1,4 @@
+1496571237566	Rename field 'SHOP_COM_API_CLIENT_NAME'
+1496611310311	Rename resource 'client_secret_154940187807-pm1l0s790ftmvbk3sor55q7vhmmsf65i.apps.googleusercontent.com.json'
+1496612274347	Rename type 'DriveQuickstart'
+1496613817698	Extract method 'getLimittions'

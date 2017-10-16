@@ -1,0 +1,11 @@
+1494964313679	Copy file
+1494964968031	Rename local variable 'url'
+1494970312847	Extract local variable 'singleRecipe'
+1494970822526	Extract local variable 'ingredient'
+1494970887883	Extract local variable 'weight'
+1495237530977	Copy compilation unit
+1495376356461	Rename method 'searchForRecipe'
+1495377741588	Pull up 'busy' to 'BaseAgent'
+1495377788531	Pull up members to 'BaseAgent'
+1495410399165	Extract method 'sleep'
+1495410833276	Extract local variable 'proceObj'

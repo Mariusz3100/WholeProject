@@ -1,0 +1,8 @@
+1496655831044	Copy compilation unit
+1496655946236	Rename method 'getLimittions'
+1496656105249	Extract local variable 'healthLimittions'
+1496656118472	Rename method 'getHealthLimittions'
+1496663503650	Extract local variable 'dietLimitations'
+1496663777360	Extract local variable 'dietLimitationsAsString'
+1496665827906	Copy compilation unit
+1496665871894	Rename field 'SHOP_COM_API_AGENT_NAME'

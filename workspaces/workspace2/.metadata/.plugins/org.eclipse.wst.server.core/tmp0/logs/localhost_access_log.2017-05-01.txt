@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [01/May/2017:00:39:42 +0200] "GET /kitchen-assistant/apirecipes?searchPhrase=chicken HTTP/1.1" 500 8867
+0:0:0:0:0:0:0:1 - - [01/May/2017:00:39:43 +0200] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [01/May/2017:00:40:42 +0200] "GET /kitchen-assistant/apirecipes?searchPhrase=chicken HTTP/1.1" 200 4586
+0:0:0:0:0:0:0:1 - - [01/May/2017:00:43:30 +0200] "GET /kitchen-assistant/agents/start HTTP/1.1" 200 29
+127.0.0.1 - - [01/May/2017:12:28:11 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [01/May/2017:12:28:14 +0200] "GET /kitchen-assistant/ HTTP/1.1" 200 29
